@@ -4,7 +4,7 @@ Kaggle competition on predict MGMT gen by brain CT images,
 All experiment part adapted for *kaggle* notebooks! **Write** to provide a particular model.
 Sorry for quality of code...
 
-This repository created for to show how i solved this competition.
+This repository created for to show how i solved this competition and solution have __raw__ format.
 
 # Result
 * __Place__ - 128 / 1555, bronze. 
